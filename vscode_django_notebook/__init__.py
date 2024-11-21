@@ -1,1 +1,1 @@
-from vscode_django_notebook.main import init_django
+from .main import init_django
